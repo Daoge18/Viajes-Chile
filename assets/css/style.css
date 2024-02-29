@@ -66,7 +66,13 @@ nav img{
 footer{
     background-color: aqua;
     color: #FFFFFF;
-    padding: 1%;
+    padding: 1% ;
     position: relative;
     top: -70px;
+    padding-bottom: 0px;
+}
+.desaparecer{
+    @media (max-width: 767px) {
+        display: none;
+    }
 }
