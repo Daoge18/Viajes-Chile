@@ -1,0 +1,72 @@
+*{
+     font-family: "Raleway", sans-serif; /*Se utiliza fuente obtenida de Google Font */
+}
+
+html {
+    scroll-behavior: smooth;
+  }
+nav img{
+    width: 4%;
+    height: auto;
+}
+.fondo{
+    padding: 0 5%;
+    font-size: 18px;
+}
+.imgcar{
+    width: 100%;
+    max-height: 1024px;
+}
+.sect1{
+    border-bottom: 1px; 
+    border-bottom-style: solid; 
+    border-color: #FFFFFF;
+    text-align: center;
+    padding-bottom: 2%;
+}
+.sect2{
+    align-items: center; 
+    justify-content: center;
+    padding-top: 1%;
+}
+.secti{
+    background-color: rgb(0, 255, 255);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+} 
+.sect3{
+    text-align: center;
+}
+.back1{
+    background-color: black;
+    color: white;
+    position: relative;
+    top: -70px;
+}
+.conta{
+    align-items: center;
+    justify-content: center;
+    display: flex !important;
+    padding: 2% 1%;
+}
+.back2{
+    background-color: black;
+    color: white;
+    position: relative;
+    top: -70px;
+    padding: 2% 1%;
+}
+.card{
+    color: white;
+}
+footer{
+    background-color: aqua;
+    color: #FFFFFF;
+    padding: 1%;
+    position: relative;
+    top: -70px;
+}
