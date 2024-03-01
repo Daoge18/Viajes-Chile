@@ -52,6 +52,7 @@ nav img{
     justify-content: center;
     display: flex !important;
     padding: 2% 1%;
+    background-color: black;
 }
 .back2{
     background-color: black;
